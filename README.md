@@ -10,18 +10,18 @@ It reveals pricing behavior, area-based demand, listing segments, and long-term 
 ### 1. Pricing Insights
 - ~**38% price gap** across Budget, Mid-Range, and High-End segments.
 - **Mid-Range** homes show the most stable pricing; **Budget** homes fluctuate the most.
-- High-End homes form the highest price clusters (~**308K AED**).
+- High-End homes form the highest price clusters (~**308,000 AED**).
 
 ### 2. Area Type Demand
 - **Suburb** areas contribute the most listings (~34%).
 - **Rural** homes offer the largest property sizes (≈ **2017 sqft**).
-- Price per sqft is nearly identical across Urban, Suburb, and Rural (~**113 AED/sqft**).
+- Price per sqft is nearly identical across Urban, Suburb, and Rural (~**113,000 AED/sqft**).
 
 ### 3. Market Summary
 - **Total Listings:** 1,998  
 - **Average Size:** ~2,000 sqft  
-- **Average Price:** ~223.9K AED  
-- **Avg Price/Sqft:** ~113.23 AED  
+- **Average Price:** ~223,900 AED  
+- **Avg Price/Sqft:** ~113,230 AED  
 
 ### 4. Long-Term Trends
 - Construction activity increases significantly post-2000.
