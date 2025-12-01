@@ -58,9 +58,8 @@ It reveals pricing behavior, area-based demand, listing segments, and long-term 
 
 ---
 
-## 📁 Repository Structure
 
-## 📁 Repository Structure
+## 📂 Repository Structure
 
 Dubai-Real-Estate-Intelligence-Dashboard/
 │── Dubai_Real_Estate.pbix
@@ -68,9 +67,9 @@ Dubai-Real-Estate-Intelligence-Dashboard/
 │── screenshots/
 │   ├── Market Overview.jpeg
 │   ├── Area Type Analysis.jpeg
-│   ├── Trends & Price Drivers.jpeg
+│   └── Trends & Price Drivers.jpeg
 └── README.md
----
+
 
 ## 📈 Business Impact
 
